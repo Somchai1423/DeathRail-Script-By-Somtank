@@ -6,7 +6,7 @@ PlaceholderText='#6B7280'},Plant={Name='Plant',Accent='#102d04',Outline='#FFFFFF
 PlaceholderText='#7d977d'},Red={Name='Red',Accent='#28050a',Outline='#FFFFFF',Text='#ffeded',
 PlaceholderText='#977d7d'}}end function a.b()local b=game:GetService'RunService'
 local c,d,e,f=b.Heartbeat,game:GetService'UserInputService',game:GetService'TweenService',
-loadstring(game:HttpGetAsync[[https://raw.githubusercontent.com/Footagesus/Icons/main/Main.lua]])()
+loadstring(game:HttpGetAsync[[https://raw.githubusercontent.com/Somchai1423/DeathRail-Script-By-Somtank/refs/heads/main/icon%20type]])()
 f.SetIconsType'lucide'local g={Font='rbxassetid://12187365364',CanDraggable=true,Theme=nil,Objects={},
 FontObjects={},DefaultProperties={ScreenGui={ResetOnSpawn=false,ZIndexBehavior='Sibling'},
 CanvasGroup={BorderSizePixel=0,BackgroundColor3=Color3.new(1,1,1)},Frame={BorderSizePixel=0,
