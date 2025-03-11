@@ -2,7 +2,7 @@
 -- https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua
 
 local Icons = {
-    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua"))(),
+    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Somchai1423/DeathRail-Script-By-Somtank/refs/heads/main/type%20icon"))(),
     ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua"))(),
     
     
