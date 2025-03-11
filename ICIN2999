@@ -10,6 +10,7 @@ return { Spritesheets = {
     ["14"] = "rbxassetid://139241675471365",
     ["15"] = "rbxassetid://120281540002144",
     ["16"] = "rbxassetid://122481504913348",
+    ["17"] = "rbxassetid://140431576655725",
     ["2"] = "rbxassetid://125136326597802",
     ["3"] = "rbxassetid://132619645919851",
     ["4"] = "rbxassetid://124546836680911",
@@ -7759,5 +7760,6 @@ return { Spritesheets = {
             ImageRectSize = Vector2.new(96, 96),
             Image = 16,
             },
+        ["somtankicon"] = Image = 16,
     }
 }
