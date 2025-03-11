@@ -5001,8 +5001,6 @@ return { Spritesheets = {
             ImageRectSize = Vector2.new(96, 96),
             Image = 10,
         },
-        ["somtankicon"] = {
-            Image = 11,
-        },
+        ["somtankicon"] = Image = 11,
     }
 }
