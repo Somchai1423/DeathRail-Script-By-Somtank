@@ -9,11 +9,8 @@ return { Spritesheets = {
     ["8"] = "rbxassetid://130202200859762",
     ["9"] = "rbxassetid://107947096000444",
     ["10"] = "rbxassetid://74032637954135",
-    ["11"] = "rbxassetid://70914893962880",
+    ["11"] = "rbxassetid://140431576655725",
 }, Icons = {
-        ["somtankicon"] = {
-            Image = 11,
-        },
         ["2d-axis-stroke"] = {
             ImageRectPosition = Vector2.new(0, 0),
             ImageRectSize = Vector2.new(96, 96),
@@ -5003,6 +5000,9 @@ return { Spritesheets = {
             ImageRectPosition = Vector2.new(672, 864),
             ImageRectSize = Vector2.new(96, 96),
             Image = 10,
+        },
+        ["somtankicon"] = {
+            Image = 11,
         },
     }
 }
